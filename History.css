@@ -1,0 +1,42 @@
+body
+{
+	font-size: 1.3rem;
+	line-height: 1.65;
+	font-family: sans-serif;
+	color: #1E1E24;
+	background-color: #ffffe6;
+	margin: 2em;
+}
+
+h1
+{
+	font-size: 3rem;
+	color: #febc1d;
+	font-weight: 900;
+}
+
+p
+{
+	margin-top: 0;
+}
+.title
+{
+	color: #febc1d;
+}
+.columns
+{
+	
+	column-width: 250px;
+	column-rule: 1px dotted #ccc;
+	column-gap: 3em;
+}
+
+.footer
+{
+	color: #febc1d;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
