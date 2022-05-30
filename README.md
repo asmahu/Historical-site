@@ -11,7 +11,7 @@
 	    - This section will allow user to easily navigate from page to page across all devices without 
 	      having to revert  back to previouspage via back button.
 	     
-	      ![navigation](https://user-images.githubusercontent.com/38485834/170937995-92b645ca-a69c-4c9f-8d28-84bfe5c1d325.PNG)
+	      
 	      
 	      
 
@@ -34,28 +34,28 @@
            build? length of this artefact and Mind-Blowing facts. That it would attract the attention 
            of user.
 	
-	=====================screenshot--============================
+	
     - The Gallery page
     
        - It provides the user supporting images to see more wonderful images of wall of china.
         	This section is valuable for user as they will be able to see images of this artefact 
          in different seasons	and view. That makes it an attractive gallery.
-	==========================screenshot=======================================
+	
     - The Sign Up page
     
        - This Page will allow the user to get signed up to this historical site to start improve knowledge.
         	The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site 
 	        to access more artefact information.  
-     -----------------------------------------screenshot-------------------------------
+    
     - The contact us Page
     
        - This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
-        ![contacts](https://user-images.githubusercontent.com/38485834/170941119-d59710f3-d2a3-4e81-ae87-041709a8e6af.PNG)
+        
        
   -  Testing 
   
   
-         <img width="871" alt="lighthouse1" src="https://user-images.githubusercontent.com/38485834/170940593-a148a2fa-a125-4e8b-8fed-e844323c5370.png">
+      
 
   
     - Validator Testing
@@ -70,7 +70,7 @@
 	          In the Githop desktop application, navigate to the File tab 
            from  Add local repository section.  then new file section and upload the files.
 	          and push it from navigation bar section.
-           To live link can be found here (http://---------------------------)
+           To live link can be found here (http://github.com/asmahu/Historical-site)
 
  	
      - Content 
