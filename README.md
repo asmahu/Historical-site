@@ -14,11 +14,10 @@
  
  - **Navigation bar**
     
-    	Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
-        us page, History page, About Us page and Sign Up page. 
-	    
-	This section will allow user to easily navigate from page to page across all devices without 
-	having to revert  back to previouspage via back button.
+     -Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
+          us page, History page, About Us page and Sign Up page. 
+	- This section will allow user to easily navigate from page to page across all devices without 
+	  having to revert  back to previouspage via back button.
 	     
        ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
 
@@ -47,10 +46,10 @@
     
        - The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
 	 about wall of china.
-	 - When it was built? 
-	 - Who was built? 
-	 - why was built? 
-	 - length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
+	  - When it was built? 
+	  - Who was built? 
+	  - why was built? 
+	  - length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
 	
 	
 
