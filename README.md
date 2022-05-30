@@ -6,7 +6,7 @@
         <img width="871" alt="Testing1" src="https://user-images.githubusercontent.com/38485834/170986251-6c69d5dc-5d24-45f4-a92d-6a060fe08f6f.png">
 
    
- Existing features
+ **Existing features**
  
  - **Navigation bar**
     
@@ -76,10 +76,12 @@
 - **Testing **
  
 	- **Responsiveness**
+	
 	 - The website is made fully responsive from the largest screen to the smallest mobile screen size of 280px.
 	   this was tested using the lighthouse tools of chrome, firefox, microsoft edge and safari.
 	   
-       - **Accessibility **
+       - **Accessibility**
+       
        	   As its important that people wiht disabilities have the chance of using the web, this site also gives 
 	   significant consideration to its accessibility.
 	   
@@ -89,6 +91,7 @@
 	      each other and connecting them with some classes.
 	
 - **Validator Testing**
+- 
        HTML 
        [No errors were returned when passing through the official](W3C validator)
        CSS 
@@ -96,6 +99,7 @@
 	 
      
 - **Deployment** 
+
         The site was deployed to Github Pages. The steps are as follows:
         In the Githop desktop application, navigate to the File tab 
         from  Add local repository section.  then new file section and upload the files.
@@ -103,7 +107,7 @@
         To live link can be found here (http://github.com/asmahu/Historical-site)
 
  	
-     - **Content **
+- **Content **
        	[I got the information about wall of china from](https://www.chinahighlights.com)
         [About the images from](http://www.unplash.com)
        	[for code I got help from](http://www.w3school.com).
