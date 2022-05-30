@@ -6,10 +6,11 @@
  
   + Navigation Bar
     
-    	+ Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About us page, History
-	      page, About Us page and Sign Up page. 
-	    + This section will allow user to easily navigate from page to page across all devices without having to revert 
-	      back to previouspage via back button.
+    	+ Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
+    	+  us page, History page, About Us page and Sign Up page. 
+	    + This section will allow user to easily navigate from page to page across all devices without 
+	      having to revert  back to previouspage via back button.
+	     
 	      ![navigation](https://user-images.githubusercontent.com/38485834/170937995-92b645ca-a69c-4c9f-8d28-84bfe5c1d325.PNG)
 	      
 	      
