@@ -36,7 +36,9 @@
      
 - **The History page**
     
-        This site allow to user know about some detail about this artefact.It gives interesting and wonderful information about wall of china. When it was built? Who was built? why was build? length of this artefact and Mind-Blowing facts. That it would attract the attentionof user.
+        This site allow to user know about some detail about this artefact.It gives interesting and wonderful information
+	about wall of china. When it was built? Who was built? why was build? length of this artefact and Mind-Blowing facts.
+	That it would attract the attentionof user.
 
 ![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
 
@@ -44,7 +46,8 @@
 - **The Gallery page**
     
         It provides the user supporting images to see more wonderful images of wall of china.
-        This section is valuable for user as they will be able to see images of this artefact in different season and view. That makes it an attractive gallery.
+        This section is valuable for user as they will be able to see images of this artefact in different season and view.
+	That makes it an attractive gallery.
 
 ![Gallery](https://user-images.githubusercontent.com/38485834/170978812-78fe53de-4243-4a62-ab9d-69eb6c3d3199.PNG)
 
@@ -53,14 +56,17 @@
 - **The Sign Up page**
     
         This Page will allow the user to get signed up to this historical site to start improve knowledge.
-        The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site to access more artefact information.  
-![Sign](https://user-images.githubusercontent.com/38485834/170978887-fe3968e1-f9c1-4279-b69c-7d3df49bfa7d.PNG)
+        The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site
+	to access more artefact information.  
+	
+       ![Sign](https://user-images.githubusercontent.com/38485834/170978887-fe3968e1-f9c1-4279-b69c-7d3df49bfa7d.PNG)
 
     
 - **The contact us Page**
     
        This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
-  ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
+       
+      ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
 
 
        
@@ -78,19 +84,7 @@
 	    - Significant contrast between foreground and background colors.
 	    - Clear association of labels to their respective input fields, such as positioning them adjacent to 
 	      each other and connecting them with some classes.
-	   
-        
 	
-	
-
-  
-  <img width="535" alt="lighthouse" src="https://user-images.githubusercontent.com/38485834/170950120-0c20d7f3-ec31-4d60-b10c-64b7aeed4c95.png">
-  
-
-<img width="871" alt="Screenshot 2022-05-30 073515" src="https://user-images.githubusercontent.com/38485834/170950455-adca3846-e1a9-45a1-a1e6-6a6ea263a5a8.png">
-
-
-  
 - **Validator Testing**
        HTML 
        [No errors were returned when passing through the official](W3C validator)
