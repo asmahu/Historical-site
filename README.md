@@ -1,6 +1,7 @@
 ## Historical Site
    This a site that hopes to help keep people motivated to visit for scalling up their information.
-   This site will be targeted toward researchers who are looking for a way to improve their knowlege about artefacts.
+   This site will be targeted toward researchers who are looking for a way to improve their knowlege
+   about artefacts.
    
  Existing features
  
@@ -17,8 +18,8 @@
 	      
 
     - The landing page image 
-       The landing includes a paragraph with text overlay to allow the user to see exactly which subject this site 
-         would be applicable to.
+       The landing includes a paragraph with text overlay to allow the user to see exactly which subject
+       this site would be applicable to.
 	
     
    
@@ -26,25 +27,25 @@
          This section will allow user to know why this site is built and can see more details about the site.
         
 	
-	![About](https://user-images.githubusercontent.com/38485834/170944948-0cc284ec-8ef5-4163-a02f-94a87678521d.PNG)
+	
 	
      
     - The History page
     
-       - This site allow to user know about some detail about this artefact.It gives interesting 
+           This site allow to user know about some detail about this artefact.It gives interesting 
            and wonderful information about wall of china. When it was built? Who was built? why was 
            build? length of this artefact and Mind-Blowing facts. That it would attract the attention 
            of user.
 	   
-	   ![3](https://user-images.githubusercontent.com/38485834/170942541-6e08929d-b020-439a-8826-e3889b46609c.PNG)
+	   
 
 	
 	
   - The Gallery page
     
-     - It provides the user supporting images to see more wonderful images of wall of china.
+       It provides the user supporting images to see more wonderful images of wall of china.
        This section is valuable for user as they will be able to see images of this artefact 
-       in different seasons	and view. That makes it an attractive gallery.
+       in different season and view. That makes it an attractive gallery.
 	
     - The Sign Up page
     
