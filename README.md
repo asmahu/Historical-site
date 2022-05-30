@@ -16,7 +16,9 @@
  ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
 
 	      
+
 - **The landing page image **
+
         The landing includes a paragraph with text overlay to allow the user to see exactly which subject
         this site would be applicable to.
 	
@@ -37,7 +39,7 @@
         and wonderful information about wall of china. When it was built? Who was built? why was 
         build? length of this artefact and Mind-Blowing facts. That it would attract the attention 
         of user.
-	   ![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
+![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
 
 	   
 - **The Gallery page**
@@ -60,11 +62,10 @@
 - **The contact us Page**
     
        This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
-        ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
+  ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
 
        
 - **Testing **
-
 
   
   <img width="535" alt="lighthouse" src="https://user-images.githubusercontent.com/38485834/170950120-0c20d7f3-ec31-4d60-b10c-64b7aeed4c95.png">
