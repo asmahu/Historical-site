@@ -45,12 +45,12 @@
      
 - **The History page**
     
-        This site allow to user know about some detail about this artefact.It gives interesting and wonderful information
-	about wall of china.
-	When it was built? 
-	Who was built? 
-	why was built? 
-	length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
+         The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
+	 about wall of china.
+	 When it was built? 
+	 Who was built? 
+	 why was built? 
+	 length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
 	
 	
 
