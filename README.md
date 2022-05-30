@@ -44,7 +44,7 @@
      
 - **The History page**
     
-       - The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
+    - The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
 	 about wall of china.
 	  - When it was built? 
 	  - Who was built? 
