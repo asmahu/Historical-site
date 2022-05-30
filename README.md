@@ -22,6 +22,7 @@
 
 	      
 
+
 - **The landing page image **
 
         The landing includes a paragraph with text overlay to allow the user to see exactly which subject
@@ -29,6 +30,7 @@
 	
         ![Home](https://user-images.githubusercontent.com/38485834/170978743-c3b11a17-8396-4276-aaa6-bd36a4574949.PNG)
 
+   
    
 - **The About us page**
 
@@ -60,6 +62,7 @@
 
 
 	
+	
 - **The Sign Up page**
     
         This Page will allow the user to get signed up to this historical site to start improve knowledge.
@@ -69,6 +72,8 @@
        ![Sign](https://user-images.githubusercontent.com/38485834/170978887-fe3968e1-f9c1-4279-b69c-7d3df49bfa7d.PNG)
 
     
+    
+    
 - **The contact us Page**
     
        This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
@@ -76,6 +81,8 @@
       ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
 
 
+       
+       
        
 - **Testing **
  
@@ -89,13 +96,13 @@
        	   As its important that people wiht disabilities have the chance of using the web, this site also gives 
 	   significant consideration to its accessibility.
 	   
-	  - The site is made with concern for:
-	    - Significant contrast between foreground and background colors.
-	    - Clear association of labels to their respective input fields, such as positioning them adjacent to 
-	      each other and connecting them with some classes.
+	 - The site is made with concern for:
+	   - Significant contrast between foreground and background colors.
+	   - Clear association of labels to their respective input fields, such as positioning them adjacent to 
+	     each other and connecting them with some classes.
 	
 - **Validator Testing**
-- 
+ 
        HTML 
        [No errors were returned when passing through the official](W3C validator)
        CSS 
@@ -111,7 +118,7 @@
         To live link can be found here (http://github.com/asmahu/Historical-site)
 
  	
-- **Content **
+- **Content**
        	[I got the information about wall of china from](https://www.chinahighlights.com)
         [About the images from](http://www.unplash.com)
        	[for code I got help from](http://www.w3school.com).
