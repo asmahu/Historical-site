@@ -46,8 +46,12 @@
 - **The History page**
     
         This site allow to user know about some detail about this artefact.It gives interesting and wonderful information
-	about wall of china When it was built? Who was built? why was build? length of this artefact and Mind-Blowing facts
-	that it would attract the attentionof user.
+	about wall of china.
+	When it was built? 
+	Who was built? 
+	why was built? 
+	length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
+	
 	
 
         ![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
