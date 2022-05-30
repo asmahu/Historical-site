@@ -25,7 +25,8 @@
    - The About us page
          This section will allow user to know why this site is built and can see more details about the site.
         
-	![About](https://user-images.githubusercontent.com/38485834/170939158-047cfb12-265f-4e43-94ad-e5ad08902cdd.PNG)
+	
+	![About](https://user-images.githubusercontent.com/38485834/170944948-0cc284ec-8ef5-4163-a02f-94a87678521d.PNG)
 	
      
     - The History page
