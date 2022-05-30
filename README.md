@@ -3,6 +3,9 @@
    This site will be targeted toward researchers who are looking for a way to improve their knowlege
    about artefacts.
    
+        <img width="871" alt="Testing1" src="https://user-images.githubusercontent.com/38485834/170986251-6c69d5dc-5d24-45f4-a92d-6a060fe08f6f.png">
+
+   
  Existing features
  
  - **Navigation bar**
@@ -13,7 +16,7 @@
 	This section will allow user to easily navigate from page to page across all devices without 
 	having to revert  back to previouspage via back button.
 	     
- ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
+       ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
 
 	      
 
