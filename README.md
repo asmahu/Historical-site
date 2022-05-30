@@ -6,9 +6,10 @@
  
   - Navigation-Bar
     
-    	- Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
+    	 Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
     	      us page, History page, About Us page and Sign Up page. 
-	    - This section will allow user to easily navigate from page to page across all devices without 
+	    
+	     This section will allow user to easily navigate from page to page across all devices without 
 	      having to revert  back to previouspage via back button.
 	     
 	      
@@ -22,9 +23,9 @@
     
    
    - The About us page
-    
-       - This section will allow user to know why this site is built and can see more details about the site.
-         ![About](https://user-images.githubusercontent.com/38485834/170939158-047cfb12-265f-4e43-94ad-e5ad08902cdd.PNG)
+     - This section will allow user to know why this site is built and can see more details about the site.
+        
+	![About](https://user-images.githubusercontent.com/38485834/170939158-047cfb12-265f-4e43-94ad-e5ad08902cdd.PNG)
 	
      
     - The History page
