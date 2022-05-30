@@ -26,6 +26,7 @@
 
    
 - **The About us page**
+
         This section will allow user to know why this site is built and can see more details about the site.
         
 	![About](https://user-images.githubusercontent.com/38485834/170978628-a5f8e427-7e07-4b1e-aed7-f04dbc168e45.PNG)
@@ -35,18 +36,16 @@
      
 - **The History page**
     
-        This site allow to user know about some detail about this artefact.It gives interesting 
-        and wonderful information about wall of china. When it was built? Who was built? why was 
-        build? length of this artefact and Mind-Blowing facts. That it would attract the attention 
-        of user.
+        This site allow to user know about some detail about this artefact.It gives interesting and wonderful information about wall of china. When it was built? Who was built? why was build? length of this artefact and Mind-Blowing facts. That it would attract the attentionof user.
+
 ![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
 
 	   
 - **The Gallery page**
     
         It provides the user supporting images to see more wonderful images of wall of china.
-        This section is valuable for user as they will be able to see images of this artefact 
-        in different season and view. That makes it an attractive gallery.
+        This section is valuable for user as they will be able to see images of this artefact in different season and view. That makes it an attractive gallery.
+
 ![Gallery](https://user-images.githubusercontent.com/38485834/170978812-78fe53de-4243-4a62-ab9d-69eb6c3d3199.PNG)
 
 
@@ -54,8 +53,7 @@
 - **The Sign Up page**
     
         This Page will allow the user to get signed up to this historical site to start improve knowledge.
-        The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site 
-	to access more artefact information.  
+        The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site to access more artefact information.  
 ![Sign](https://user-images.githubusercontent.com/38485834/170978887-fe3968e1-f9c1-4279-b69c-7d3df49bfa7d.PNG)
 
     
@@ -63,6 +61,7 @@
     
        This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
   ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
+
 
        
 - **Testing **
