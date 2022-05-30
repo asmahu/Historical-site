@@ -1,7 +1,9 @@
 ## Historical Site
-   This a site that hopes to help keep people motivated to visit for scalling up their information.
-   This site will be targeted toward researchers who are looking for a way to improve their knowlege
+   This is a site that hopes to help keep people motivated to visit for scalling up their information.
+   This site will be targeted toward researchers who are looking for a way to improve their knowlege 
    about artefacts.
+   
+   
    
    <img width="871" alt="Testing1" src="https://user-images.githubusercontent.com/38485834/170986251-6c69d5dc-5d24-45f4-a92d-6a060fe08f6f.png">
 
