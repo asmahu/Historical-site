@@ -26,7 +26,7 @@
 
 - **The landing page image**
 
-        The landing includes a paragraph with text overlay to allow the user to see exactly which subject
+       - The landing includes a paragraph with text overlay to allow the user to see exactly which subject
         this site would be applicable to.
 	
         ![Home](https://user-images.githubusercontent.com/38485834/170978743-c3b11a17-8396-4276-aaa6-bd36a4574949.PNG)
@@ -35,7 +35,7 @@
    
 - **The About us page**
 
-        This section will allow user to know why this site is built and can see more details about the site.
+       - This section will allow user to know why this site is built and can see more details about the site.
         
 	![About](https://user-images.githubusercontent.com/38485834/170978628-a5f8e427-7e07-4b1e-aed7-f04dbc168e45.PNG)
 
@@ -60,7 +60,7 @@
 	   
 - **The Gallery page**
     
-       - It provides the user supporting images to see more wonderful images of wall of china. This section is valuable for user 
+      - It provides the user supporting images to see more wonderful images of wall of china. This section is valuable for user 
         as they will be able to see images of this artefact in different season and view that makes it an attractive gallery.
 	
 
@@ -71,7 +71,7 @@
 	
 - **The Sign Up page**
     
-        This Page will allow the user to get signed up to this historical site to start improve knowledge the user will be asked to 
+     - This Page will allow the user to get signed up to this historical site to start improve knowledge the user will be asked to 
         submit Full Name, User Name, Phone Number and Email Address to Sign up in this site to access more artefact information.  
 	
 	
@@ -82,7 +82,7 @@
     
 - **The contact us Page**
     
-       This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
+     - This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
        
       ![contacts](https://user-images.githubusercontent.com/38485834/170978938-f6d0adfe-5394-49b4-927f-e8cb2c87e246.PNG)
 
@@ -109,18 +109,19 @@
 	
 - **Validator Testing**
  
-       HTML 
+     - HTML 
        [No errors were returned when passing through the official](W3C validator)
-       CSS 
+     -  CSS 
        [NO errors were found when passing through the official](jigsaw validator)
 	 
      
 - **Deployment** 
 
-        The site was deployed to Github Pages. The steps are as follows:
+     - The site was deployed to Github Pages. The steps are as follows:
         In the Githop desktop application, navigate to the File tab 
-        from  Add local repository section.  then new file section and upload the files.
-	and push it from navigation bar section.
+        Add local repository section. select the folder of local repository from pop up
+	then push it from navigation bar section.
+	
         To live link can be found here (http://github.com/asmahu/Historical-site)
 
  	
