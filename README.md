@@ -3,7 +3,7 @@
    This site will be targeted toward researchers who are looking for a way to improve their knowlege
    about artefacts.
    
-        <img width="871" alt="Testing1" src="https://user-images.githubusercontent.com/38485834/170986251-6c69d5dc-5d24-45f4-a92d-6a060fe08f6f.png">
+   <img width="871" alt="Testing1" src="https://user-images.githubusercontent.com/38485834/170986251-6c69d5dc-5d24-45f4-a92d-6a060fe08f6f.png">
 
    
  **Existing features**
@@ -25,7 +25,7 @@
         The landing includes a paragraph with text overlay to allow the user to see exactly which subject
         this site would be applicable to.
 	
-    ![Home](https://user-images.githubusercontent.com/38485834/170978743-c3b11a17-8396-4276-aaa6-bd36a4574949.PNG)
+        ![Home](https://user-images.githubusercontent.com/38485834/170978743-c3b11a17-8396-4276-aaa6-bd36a4574949.PNG)
 
    
 - **The About us page**
@@ -43,16 +43,18 @@
 	about wall of china. When it was built? Who was built? why was build? length of this artefact and Mind-Blowing facts.
 	That it would attract the attentionof user.
 
-![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
+        ![History](https://user-images.githubusercontent.com/38485834/170978673-95858deb-f8fd-4fb5-b746-8201e29c82b6.PNG)
 
+	   
+	   
 	   
 - **The Gallery page**
     
-        It provides the user supporting images to see more wonderful images of wall of china.
-        This section is valuable for user as they will be able to see images of this artefact in different season and view.
-	That makes it an attractive gallery.
+        It provides the user supporting images to see more wonderful images of wall of china. This section is valuable for user 
+        as they will be able to see images of this artefact in different season and view that makes it an attractive gallery.
+	
 
-![Gallery](https://user-images.githubusercontent.com/38485834/170978812-78fe53de-4243-4a62-ab9d-69eb6c3d3199.PNG)
+        ![Gallery](https://user-images.githubusercontent.com/38485834/170978812-78fe53de-4243-4a62-ab9d-69eb6c3d3199.PNG)
 
 
 	
