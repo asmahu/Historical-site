@@ -25,7 +25,7 @@
 	      
 
 
-- **The landing page image **
+- **The landing page image**
 
         The landing includes a paragraph with text overlay to allow the user to see exactly which subject
         this site would be applicable to.
@@ -86,7 +86,7 @@
        
        
        
-- **Testing **
+- **Testing**
  
 	- **Responsiveness**
 	
