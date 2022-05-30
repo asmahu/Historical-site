@@ -18,6 +18,7 @@
     - The landing page image 
        The landing includes a paragraph with text overlay to allow the user to see exactly which subject this site 
          would be applicable to.
+	 ![About](https://user-images.githubusercontent.com/38485834/170939158-047cfb12-265f-4e43-94ad-e5ad08902cdd.PNG)
     
    
    - The About us page
