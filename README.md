@@ -4,7 +4,7 @@
    
  Existing features
  
-  - Navigation Bar
+  - Navigation-Bar
     
     	- Featured on all 6 pages, the full responsive navigation bar includes links to Home Page, About
     	      us page, History page, About Us page and Sign Up page. 
