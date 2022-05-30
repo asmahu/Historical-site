@@ -39,21 +39,21 @@
 
 	
 	
-    - The Gallery page
+  - The Gallery page
     
-       - It provides the user supporting images to see more wonderful images of wall of china.
-        	This section is valuable for user as they will be able to see images of this artefact 
-         in different seasons	and view. That makes it an attractive gallery.
+     - It provides the user supporting images to see more wonderful images of wall of china.
+       This section is valuable for user as they will be able to see images of this artefact 
+       in different seasons	and view. That makes it an attractive gallery.
 	
     - The Sign Up page
     
-       - This Page will allow the user to get signed up to this historical site to start improve knowledge.
-        	The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site 
-	        to access more artefact information.  
+        This Page will allow the user to get signed up to this historical site to start improve knowledge.
+        The user will be asked to submit Full Name, User Name, Phone Number and Email Address to Sign up in this site 
+	to access more artefact information.  
     
     - The contact us Page
     
-       - This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
+       This section allow user to say their thought and give feedback, suggestion and any criticims as a message.
         
        
   -  Testing 
@@ -63,17 +63,17 @@
 
   
     - Validator Testing
-      - HTML 
+       HTML 
 	         [No errors were returned when passing through the official](W3C validator)
-      - CSS 
+       CSS 
           [NO errors were found when passing through the official](jigsaw validator)
 	 
      
     - Deployment 
-         - The site was deployed to Github Pages. The steps are as follows:
-	          In the Githop desktop application, navigate to the File tab 
+         -The site was deployed to Github Pages. The steps are as follows:
+	   In the Githop desktop application, navigate to the File tab 
            from  Add local repository section.  then new file section and upload the files.
-	          and push it from navigation bar section.
+	   and push it from navigation bar section.
            To live link can be found here (http://github.com/asmahu/Historical-site)
 
  	
