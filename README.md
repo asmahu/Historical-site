@@ -13,7 +13,7 @@
 	This section will allow user to easily navigate from page to page across all devices without 
 	having to revert  back to previouspage via back button.
 	     
-	      ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
+ ![Navbar](https://user-images.githubusercontent.com/38485834/170978281-d4929a21-6065-48a5-9343-2e3741d3a7d4.PNG)
 
 	      
 - **The landing page image **
