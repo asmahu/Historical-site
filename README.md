@@ -55,9 +55,8 @@
        
 - Testing 
   
-      <img width="871" alt="6" src="https://user-images.githubusercontent.com/38485834/170944071-970b649b-7137-4de9-a0ac-bf7f3d12eb6d.png">
-      <img width="949" alt="1" src="https://user-images.githubusercontent.com/38485834/170944614-88960aa4-0c9d-4763-8b08-3c690fc6e58b.png">
-      
+  <img width="535" alt="lighthouse" src="https://user-images.githubusercontent.com/38485834/170950120-0c20d7f3-ec31-4d60-b10c-64b7aeed4c95.png">
+     
 
   
 - Validator Testing
