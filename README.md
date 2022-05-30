@@ -45,12 +45,12 @@
      
 - **The History page**
     
-          The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
+       - The site allow to user know about some detail about this artefact.It gives interesting and wonderful information
 	 about wall of china.
-	 When it was built? 
-	 Who was built? 
-	 why was built? 
-	 length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
+	 - When it was built? 
+	 - Who was built? 
+	 - why was built? 
+	 - length of this artefact and Mind-Blowing facts that it would attract the attentionof user.
 	
 	
 
@@ -61,7 +61,7 @@
 	   
 - **The Gallery page**
     
-        It provides the user supporting images to see more wonderful images of wall of china. This section is valuable for user 
+       - It provides the user supporting images to see more wonderful images of wall of china. This section is valuable for user 
         as they will be able to see images of this artefact in different season and view that makes it an attractive gallery.
 	
 
