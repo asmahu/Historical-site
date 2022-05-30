@@ -23,7 +23,7 @@
     
    
    - The About us page
-     - This section will allow user to know why this site is built and can see more details about the site.
+         This section will allow user to know why this site is built and can see more details about the site.
         
 	![About](https://user-images.githubusercontent.com/38485834/170939158-047cfb12-265f-4e43-94ad-e5ad08902cdd.PNG)
 	
@@ -62,7 +62,7 @@
       
 
   
-    - Validator Testing
+    Validator Testing
        HTML 
 	         [No errors were returned when passing through the official](W3C validator)
        CSS 
@@ -70,7 +70,7 @@
 	 
      
     - Deployment 
-         -The site was deployed to Github Pages. The steps are as follows:
+         The site was deployed to Github Pages. The steps are as follows:
 	   In the Githop desktop application, navigate to the File tab 
            from  Add local repository section.  then new file section and upload the files.
 	   and push it from navigation bar section.
